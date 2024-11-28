@@ -8,9 +8,9 @@ int Edad = 22;
 
 if (Edad >= 18)
 {
-    Console.WriteLine("Es mayor de edad tiene: {0} años", Edad);
+    Console.WriteLine("Es mayor de edad tiene: {0} años de edad", Edad);
 }
 else
 {
-    Console.WriteLine("Es menor: {0}", Edad);
+    Console.WriteLine("Es menor porque tiene: {0}años de edad", Edad);
 }
